@@ -13,13 +13,13 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 - Proposta de projeto escolhida: Pessoas e projetos
 - Breve descrição sobre seu projeto: Descubra autores e seus projetos 
 
-## Print da versão responsiva com CSS puro [DESKTOP]
+## Print da versão com bootstrap [DESKTOP]
 
-![Desktop](../prints/desktop.png.png)
+![Desktop](public/prints/desktop.png.png)
 
-## Print da versão responsiva com CSS puro [MOBILE] (*)
+## Print da versão com bootstrap [MOBILE] (*)
 
-![Mobile](../prints/printbootstrap.png)
+![Mobile](public/prints/printbootstrap.png)
 
 
 
